@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pinned</string>
+    <string name="example_appwidget_description">this is my widget</string>
+</resources>
