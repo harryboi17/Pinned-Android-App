@@ -33,11 +33,10 @@
         android:id="@+id/Name_widget"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="16sp"
+        android:textSize="14sp"
         android:textColorHint="@color/black"
         android:textColor="@color/black"
         android:hint="Name"
-        android:fontFamily="@font/aclonica"
         android:background="#B67941"
         />
     <TextView
